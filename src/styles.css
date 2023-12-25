@@ -180,7 +180,6 @@ input[placeholder="Ваше имя"], input[placeholder="Ваш телефон"]
 .order_block {
     display: none;
     text-align: center !important;
-    display: block;
     border: 2px solid;
     border-radius: 20px;
     max-width: fit-content;
